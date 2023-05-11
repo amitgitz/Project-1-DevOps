@@ -1,5 +1,5 @@
 # django-todo
-A simple todo app built with django
+Django App Deployment on EC2 using Jenkins, Docker and ECR
 
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
 ### Setup
